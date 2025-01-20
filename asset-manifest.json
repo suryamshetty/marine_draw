@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/suryamshetty/marine_draw.git/static/css/main.9e4bcf20.css",
-    "main.js": "/suryamshetty/marine_draw.git/static/js/main.bd62ee2f.js",
-    "static/js/151.0439b9db.chunk.js": "/suryamshetty/marine_draw.git/static/js/151.0439b9db.chunk.js",
-    "index.html": "/suryamshetty/marine_draw.git/index.html",
-    "main.9e4bcf20.css.map": "/suryamshetty/marine_draw.git/static/css/main.9e4bcf20.css.map",
-    "main.bd62ee2f.js.map": "/suryamshetty/marine_draw.git/static/js/main.bd62ee2f.js.map",
-    "151.0439b9db.chunk.js.map": "/suryamshetty/marine_draw.git/static/js/151.0439b9db.chunk.js.map"
+    "main.css": "/marine_draw/static/css/main.9e4bcf20.css",
+    "main.js": "/marine_draw/static/js/main.8c9b2ff9.js",
+    "static/js/151.0439b9db.chunk.js": "/marine_draw/static/js/151.0439b9db.chunk.js",
+    "index.html": "/marine_draw/index.html",
+    "main.9e4bcf20.css.map": "/marine_draw/static/css/main.9e4bcf20.css.map",
+    "main.8c9b2ff9.js.map": "/marine_draw/static/js/main.8c9b2ff9.js.map",
+    "151.0439b9db.chunk.js.map": "/marine_draw/static/js/151.0439b9db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e4bcf20.css",
-    "static/js/main.bd62ee2f.js"
+    "static/js/main.8c9b2ff9.js"
   ]
 }
