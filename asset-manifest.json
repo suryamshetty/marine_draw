@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suryamshetty/marine_draw.git/static/css/main.9e4bcf20.css",
+    "main.js": "/suryamshetty/marine_draw.git/static/js/main.bd62ee2f.js",
+    "static/js/151.0439b9db.chunk.js": "/suryamshetty/marine_draw.git/static/js/151.0439b9db.chunk.js",
+    "index.html": "/suryamshetty/marine_draw.git/index.html",
+    "main.9e4bcf20.css.map": "/suryamshetty/marine_draw.git/static/css/main.9e4bcf20.css.map",
+    "main.bd62ee2f.js.map": "/suryamshetty/marine_draw.git/static/js/main.bd62ee2f.js.map",
+    "151.0439b9db.chunk.js.map": "/suryamshetty/marine_draw.git/static/js/151.0439b9db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4bcf20.css",
+    "static/js/main.bd62ee2f.js"
+  ]
+}
